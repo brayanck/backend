@@ -1,0 +1,35 @@
+[
+  {
+    "title": "sdfs",
+    "price": "34234",
+    "description": "fwerw",
+    "code": "sdfds",
+    "category": "rewre",
+    "stock": "324",
+    "thumbnail": "sdfsd",
+    "status": "true",
+    "id": "5baf1b2f-5582-48c3-9bd9-5dd2cc4c2237"
+  },
+  {
+    "title": "sdfs",
+    "price": "34234",
+    "description": "fwerw",
+    "code": "sdfds",
+    "category": "rewre",
+    "stock": "324",
+    "thumbnail": "sdfsd",
+    "status": "true",
+    "id": "faa5f9ec-0ed0-4698-b1ed-b6f9dbf883a9"
+  },
+  {
+    "title": "sdfs",
+    "price": "34234",
+    "description": "fwerw",
+    "code": "sdfds",
+    "category": "rewre",
+    "stock": "324",
+    "thumbnail": "sdfsd",
+    "status": "false",
+    "id": "607cbe19-9326-4d16-ab8e-cf05bfd4189e"
+  }
+]
